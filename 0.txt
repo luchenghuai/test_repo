@@ -34473,3 +34473,63 @@ find: /Users/vincentlu1/Downloads: Operation not permitted
 2025-12-06 13:51:51,827 - parentalCtl.py:104 - INFO - today is allowed
 2025-12-06 13:51:51,827 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
 2025-12-06 13:51:51,827 - parentalCtl.py:135 - WARNING - allowedTime: 13:51:51.827283, 21:00:00, 22:30:00
+2025-12-06 13:53:14,673 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 13:53:14,685 - parentalCtl.py:261 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
+2025-12-06 13:53:14,685 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
+2025-12-06 13:53:14,688 - parentalCtl.py:135 - WARNING - allowedTime: 13:53:14.686042, 21:00:00, 22:45:00
+2025-12-06 13:53:14,688 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:53:14,688 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:53:14,688 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
+2025-12-06 13:53:14,688 - parentalCtl.py:135 - WARNING - allowedTime: 13:53:14.688317, 20:30:00, 22:30:00
+2025-12-06 13:53:14,688 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 13:53:14,689 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
+2025-12-06 13:53:14,690 - parentalCtl.py:135 - WARNING - allowedTime: 13:53:14.690071, 21:30:00, 22:45:00
+2025-12-06 13:53:14,690 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:53:14,690 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:53:14,690 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
+2025-12-06 13:53:14,690 - parentalCtl.py:135 - WARNING - allowedTime: 13:53:14.690302, 21:00:00, 22:30:00
+2025-12-06 13:54:37,015 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 13:54:37,027 - parentalCtl.py:261 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
+2025-12-06 13:54:37,027 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
+2025-12-06 13:54:37,029 - parentalCtl.py:135 - WARNING - allowedTime: 13:54:37.027540, 21:00:00, 22:45:00
+2025-12-06 13:54:37,029 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:54:37,029 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:54:37,029 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
+2025-12-06 13:54:37,029 - parentalCtl.py:135 - WARNING - allowedTime: 13:54:37.029913, 20:30:00, 22:30:00
+2025-12-06 13:54:37,029 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 13:54:37,031 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
+2025-12-06 13:54:37,031 - parentalCtl.py:135 - WARNING - allowedTime: 13:54:37.031082, 21:30:00, 22:45:00
+2025-12-06 13:54:37,031 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:54:37,031 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:54:37,031 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
+2025-12-06 13:54:37,031 - parentalCtl.py:135 - WARNING - allowedTime: 13:54:37.031308, 21:00:00, 22:30:00
+2025-12-06 13:55:59,025 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 13:55:59,035 - parentalCtl.py:261 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
+2025-12-06 13:55:59,035 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
+2025-12-06 13:55:59,037 - parentalCtl.py:135 - WARNING - allowedTime: 13:55:59.035311, 21:00:00, 22:45:00
+2025-12-06 13:55:59,037 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:55:59,037 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:55:59,037 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
+2025-12-06 13:55:59,037 - parentalCtl.py:135 - WARNING - allowedTime: 13:55:59.037755, 20:30:00, 22:30:00
+2025-12-06 13:55:59,037 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 13:55:59,039 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
+2025-12-06 13:55:59,039 - parentalCtl.py:135 - WARNING - allowedTime: 13:55:59.039163, 21:30:00, 22:45:00
+2025-12-06 13:55:59,039 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:55:59,039 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:55:59,039 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
+2025-12-06 13:55:59,039 - parentalCtl.py:135 - WARNING - allowedTime: 13:55:59.039437, 21:00:00, 22:30:00
+2025-12-06 13:57:20,511 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 13:57:20,521 - parentalCtl.py:261 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
+2025-12-06 13:57:20,521 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
+2025-12-06 13:57:20,523 - parentalCtl.py:135 - WARNING - allowedTime: 13:57:20.521520, 21:00:00, 22:45:00
+2025-12-06 13:57:20,523 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:57:20,523 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:57:20,523 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
+2025-12-06 13:57:20,523 - parentalCtl.py:135 - WARNING - allowedTime: 13:57:20.523577, 20:30:00, 22:30:00
+2025-12-06 13:57:20,523 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 13:57:20,525 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
+2025-12-06 13:57:20,525 - parentalCtl.py:135 - WARNING - allowedTime: 13:57:20.525465, 21:30:00, 22:45:00
+2025-12-06 13:57:20,525 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
+2025-12-06 13:57:20,525 - parentalCtl.py:104 - INFO - today is allowed
+2025-12-06 13:57:20,525 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
+2025-12-06 13:57:20,525 - parentalCtl.py:135 - WARNING - allowedTime: 13:57:20.525730, 21:00:00, 22:30:00

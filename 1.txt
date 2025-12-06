@@ -126,3 +126,12 @@
 2025-12-06 13:53:07,547 - parentalCtl.py:353 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 53, 7, 547307)
 2025-12-06 13:53:07,557 - parentalCtl.py:370 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
 2025-12-06 13:53:07,557 - parentalCtl.py:307 - INFO - upload flag: 1
+2025-12-06 13:53:09,579 - parentalCtl.py:386 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:53:09,579 - parentalCtl.py:448 - WARNING - check done. sleep 5 min
+2025-12-06 13:54:02,883 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:55:03,262 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:56:02,503 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:57:04,495 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:58:02,847 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:58:11,091 - parentalCtl.py:370 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
+2025-12-06 13:58:11,091 - parentalCtl.py:307 - INFO - upload flag: 1
