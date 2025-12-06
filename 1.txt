@@ -1,1 +1,128 @@
-0
+2025-12-06 12:53:03,105 - parentalCtl.py:397 - WARNING - Error: FileNotFoundError(2, 'No such file or directory')
+2025-12-06 12:53:04,582 - parentalCtl.py:363 - WARNING - sha1sum: 8c6eb2759ad21317286568daab410c8b761c94ef
+2025-12-06 12:53:04,612 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 12:53:04,613 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 12:54:03,083 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 12:55:02,572 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 12:56:05,076 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 12:57:02,653 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 12:58:03,090 - parentalCtl.py:397 - WARNING - Error: FileNotFoundError(2, 'No such file or directory')
+2025-12-06 12:58:04,689 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 12:58:05,175 - parentalCtl.py:338 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 12:58:05,177 - parentalCtl.py:340 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 12:58:05,178 - parentalCtl.py:346 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 12, 58, 5, 178088)
+2025-12-06 12:58:05,185 - parentalCtl.py:363 - WARNING - sha1sum: 3130ea71094fbd2236aec0f9a2b64f23bdba7287
+2025-12-06 12:58:05,213 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 12:59:03,317 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:00:02,866 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:01:05,939 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:02:04,514 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:03:03,068 - parentalCtl.py:407 - WARNING - previous nanny hang, kill it. 1456
+2025-12-06 13:03:03,068 - parentalCtl.py:410 - INFO - dont kill
+2025-12-06 13:03:05,021 - parentalCtl.py:338 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:03:05,027 - parentalCtl.py:340 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:03:05,027 - parentalCtl.py:346 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 3, 5, 27845)
+2025-12-06 13:03:05,039 - parentalCtl.py:363 - WARNING - sha1sum: e32042c1eb11c47911ecad2fd1feb510081b617e
+2025-12-06 13:03:05,068 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:03:05,068 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:03:05,289 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:04:02,624 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:05:03,306 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:06:02,712 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:07:03,067 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:08:03,747 - parentalCtl.py:407 - WARNING - previous nanny hang, kill it. 1595
+2025-12-06 13:08:03,747 - parentalCtl.py:410 - INFO - dont kill
+2025-12-06 13:08:05,066 - parentalCtl.py:363 - WARNING - sha1sum: e32042c1eb11c47911ecad2fd1feb510081b617e
+2025-12-06 13:08:05,085 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:08:05,085 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:08:05,142 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:09:05,435 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:10:02,963 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:11:02,377 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:12:05,095 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:13:02,530 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:13:07,143 - parentalCtl.py:338 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:13:07,149 - parentalCtl.py:340 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:13:07,149 - parentalCtl.py:346 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 13, 7, 149775)
+2025-12-06 13:13:07,161 - parentalCtl.py:363 - WARNING - sha1sum: 8e385dcae738a9a814dd7abcbbc0b1ccf6d6c292
+2025-12-06 13:13:07,186 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:13:07,186 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:14:02,714 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:15:03,094 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:16:02,549 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:17:02,905 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:18:05,444 - parentalCtl.py:407 - WARNING - previous nanny hang, kill it. 1743
+2025-12-06 13:18:05,444 - parentalCtl.py:410 - INFO - dont kill
+2025-12-06 13:18:07,239 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:18:07,376 - parentalCtl.py:338 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:18:07,383 - parentalCtl.py:340 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:18:07,384 - parentalCtl.py:346 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 18, 7, 384227)
+2025-12-06 13:18:07,393 - parentalCtl.py:363 - WARNING - sha1sum: 114750cf465f134750d2a47f235bb5b58fdb2e49
+2025-12-06 13:18:07,417 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:18:07,417 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:19:02,841 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:20:03,063 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:21:02,364 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:22:02,713 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:23:03,111 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:23:08,755 - parentalCtl.py:363 - WARNING - sha1sum: 114750cf465f134750d2a47f235bb5b58fdb2e49
+2025-12-06 13:23:08,779 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:23:08,780 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:24:04,288 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:25:02,658 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:26:03,268 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:27:04,451 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:28:02,880 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:28:11,393 - parentalCtl.py:338 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:28:11,399 - parentalCtl.py:340 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:28:11,399 - parentalCtl.py:346 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 28, 11, 399756)
+2025-12-06 13:28:11,411 - parentalCtl.py:363 - WARNING - sha1sum: 65b01163069c236d4d19f17da08d28c95c8f982b
+2025-12-06 13:28:11,436 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:28:11,436 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:29:05,116 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:30:02,525 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:31:02,825 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:32:03,189 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:33:02,579 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:33:12,746 - parentalCtl.py:363 - WARNING - sha1sum: 65b01163069c236d4d19f17da08d28c95c8f982b
+2025-12-06 13:33:12,764 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:33:12,764 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:34:03,137 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:35:04,148 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:36:02,515 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:37:02,803 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:38:03,161 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:38:14,603 - parentalCtl.py:338 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:38:14,606 - parentalCtl.py:340 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:38:14,607 - parentalCtl.py:346 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 38, 14, 607118)
+2025-12-06 13:38:14,620 - parentalCtl.py:363 - WARNING - sha1sum: 86ef40706c778dc3412afc01d041157898a4b3fb
+2025-12-06 13:38:14,641 - parentalCtl.py:379 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:38:14,641 - parentalCtl.py:440 - WARNING - check done. sleep 5 min
+2025-12-06 13:39:02,550 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:40:04,992 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:41:02,353 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:42:02,841 - parentalCtl.py:422 - WARNING - nanny is there
+2025-12-06 13:43:03,047 - parentalCtl.py:404 - WARNING - Error: FileNotFoundError(2, 'No such file or directory')
+2025-12-06 13:43:04,255 - parentalCtl.py:370 - WARNING - sha1sum: 86ef40706c778dc3412afc01d041157898a4b3fb
+2025-12-06 13:43:04,256 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 13:43:04,274 - parentalCtl.py:386 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:43:04,274 - parentalCtl.py:448 - WARNING - check done. sleep 5 min
+2025-12-06 13:44:03,068 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:45:02,471 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:46:04,923 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:47:03,328 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:48:02,635 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:48:05,595 - parentalCtl.py:370 - WARNING - sha1sum: 86ef40706c778dc3412afc01d041157898a4b3fb
+2025-12-06 13:48:05,596 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 13:48:05,614 - parentalCtl.py:386 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 13:48:05,614 - parentalCtl.py:448 - WARNING - check done. sleep 5 min
+2025-12-06 13:49:04,784 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:50:03,170 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:51:02,599 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:52:02,941 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:53:03,470 - parentalCtl.py:429 - WARNING - nanny is there
+2025-12-06 13:53:07,541 - parentalCtl.py:345 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:53:07,547 - parentalCtl.py:347 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 13:53:07,547 - parentalCtl.py:353 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 13, 53, 7, 547307)
+2025-12-06 13:53:07,557 - parentalCtl.py:370 - WARNING - sha1sum: 70e14ab329c3b1b698dffffe3058e54f5e019f9e
+2025-12-06 13:53:07,557 - parentalCtl.py:307 - INFO - upload flag: 1
