@@ -1,300 +1,60 @@
-2025-12-06 15:06:10,043 - parentalCtl.py:355 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 15, 6, 10, 43207)
-2025-12-06 15:06:10,058 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 15:06:10,058 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 15:06:11,423 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 15:06:11,424 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 15:07:03,005 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:08:02,429 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:09:02,672 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:10:02,858 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:11:05,184 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:11:12,874 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 15:11:12,875 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 15:11:13,930 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 15:11:13,931 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 15:12:02,614 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:13:02,850 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:14:04,661 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:15:03,022 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:16:02,498 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:16:15,287 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 15:16:15,287 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 15:16:16,527 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 15:16:16,528 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 15:17:02,746 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:18:03,372 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:19:02,743 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:20:03,071 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:26:21,297 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 5243
-2025-12-06 15:26:21,297 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 15:26:22,582 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 15:26:22,583 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 15:26:23,942 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 15:26:23,943 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 15:26:33,219 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:27:02,599 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:29:05,765 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 15:44:48,447 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 5817
-2025-12-06 15:44:48,449 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 15:53:07,000 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 5956
-2025-12-06 15:53:07,000 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 15:53:09,173 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 15:53:09,173 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 15:53:10,639 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 15:53:10,640 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 15:53:51,101 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 16:00:46,444 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 5969
-2025-12-06 16:00:46,445 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 16:00:48,416 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 16:00:48,416 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 16:00:49,413 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 16:00:49,413 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 16:06:54,192 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 6006
-2025-12-06 16:06:54,192 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 16:11:39,620 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 16:12:54,956 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 16:12:54,956 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 16:12:57,119 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 16:12:57,119 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 16:34:50,783 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 6050
-2025-12-06 16:34:50,783 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 16:34:53,183 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 16:34:53,184 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 16:34:54,533 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 16:34:54,533 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 16:57:24,739 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 5817
-2025-12-06 16:57:24,740 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 16:57:26,811 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 16:57:26,811 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 16:57:28,486 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 16:57:28,487 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 16:57:33,775 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 16:58:24,197 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 16:58:24,197 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 16:58:26,277 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 16:58:26,277 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 16:58:27,762 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:37:40,913 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 6152
-2025-12-06 17:37:40,913 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 17:41:40,951 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 17:41:40,952 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 17:49:08,478 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 17:49:08,478 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 17:49:20,645 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 5969
-2025-12-06 17:49:20,646 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 17:49:21,887 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 17:49:21,887 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 17:49:22,958 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 17:49:22,958 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 17:49:35,030 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:49:41,045 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:50:02,347 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:50:09,244 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:51:02,540 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:51:32,780 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:52:03,128 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:52:07,031 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:53:02,204 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:54:02,686 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:54:08,545 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:54:24,392 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 17:54:24,393 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 17:54:25,555 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 17:54:25,556 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 17:55:05,326 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:56:02,580 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:57:02,931 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:58:03,260 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:59:02,563 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 17:59:26,954 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 17:59:26,955 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 17:59:28,027 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 17:59:28,027 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:00:02,874 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:01:05,473 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:02:02,804 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:03:03,278 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:04:02,466 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:04:29,419 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:04:29,420 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:04:30,523 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:04:30,524 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:05:02,787 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:06:03,072 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:07:02,426 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:08:03,370 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:09:02,675 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:09:31,899 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:09:31,899 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:09:32,983 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:09:32,984 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:10:03,147 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:11:02,385 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:12:04,414 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:13:02,815 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:14:05,063 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:14:34,263 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:14:34,264 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:14:35,396 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:14:35,396 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:15:02,525 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:16:03,003 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:17:02,334 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:18:02,609 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:19:03,180 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:19:36,806 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:19:36,807 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:19:37,857 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:19:37,857 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:20:02,549 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:21:02,892 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:22:03,223 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:23:04,460 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:24:03,094 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:24:39,246 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:24:39,247 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:24:40,281 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:24:40,281 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:25:02,607 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:26:02,718 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:27:03,046 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:28:02,415 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:29:02,671 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:29:41,545 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:29:41,545 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:29:42,581 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:29:42,582 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:30:04,419 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:31:02,754 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:32:03,083 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:33:02,267 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:34:04,613 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:34:43,841 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:34:43,843 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:34:44,961 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:34:44,961 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:35:03,009 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:36:02,263 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:37:02,441 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:38:02,745 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:39:04,978 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:39:46,228 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:39:46,228 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:39:47,290 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:39:47,290 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:40:02,249 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:41:03,702 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:42:03,004 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:43:02,297 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:44:02,512 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:44:48,775 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:44:48,776 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:44:49,864 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:44:49,865 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:45:04,610 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:46:02,968 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:47:03,316 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:48:02,707 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:49:05,081 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:49:51,290 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:49:51,293 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:49:52,393 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:49:52,393 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:50:02,646 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:51:02,950 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:52:04,667 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:53:02,946 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:54:03,274 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 18:54:53,710 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 18:54:53,711 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 18:54:54,806 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 18:54:54,806 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 18:55:02,458 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 19:56:03,076 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 6006
-2025-12-06 19:56:03,076 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 19:56:04,410 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 19:56:04,411 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 19:56:05,601 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 19:56:05,601 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 19:57:03,012 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 19:58:02,295 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 19:59:02,626 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 19:59:14,044 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:00:02,253 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:01:06,268 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:01:06,841 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:01:06,841 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:01:07,904 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:01:07,904 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:02:02,756 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:03:03,067 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:04:02,468 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:05:03,044 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:06:02,300 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:06:09,217 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:06:09,218 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:06:10,361 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:06:10,361 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:07:02,606 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:08:02,810 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:09:03,136 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:10:02,521 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:13:22,671 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 8246
-2025-12-06 20:13:22,672 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 20:13:24,037 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:13:24,038 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:13:25,215 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:13:25,216 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:13:30,422 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:14:02,754 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:15:03,054 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:16:02,273 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:17:02,675 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:18:03,050 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:18:26,512 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:18:26,513 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:18:27,763 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:18:27,764 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:19:02,298 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:20:02,891 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:21:03,218 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:22:02,576 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:23:02,748 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:23:29,178 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:23:29,179 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:23:30,314 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:23:30,314 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:24:04,892 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:25:03,414 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:26:02,846 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:27:03,004 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:28:02,356 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:28:31,614 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:28:31,614 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:28:32,658 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:28:32,658 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:29:02,640 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:30:02,859 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:31:03,162 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:32:02,492 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:33:02,880 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:33:34,050 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:33:34,050 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:33:35,540 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:33:35,541 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:34:03,200 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:35:02,704 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:36:05,399 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:37:02,694 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:38:03,942 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:38:36,918 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:38:36,919 - parentalCtl.py:307 - INFO - upload flag: 0
-2025-12-06 20:38:38,042 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
-2025-12-06 20:38:38,043 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
-2025-12-06 20:39:03,466 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:41:44,296 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:41:50,430 - parentalCtl.py:431 - WARNING - nanny is there
-2025-12-06 20:49:25,403 - parentalCtl.py:416 - WARNING - previous nanny hang, kill it. 8749
-2025-12-06 20:49:25,403 - parentalCtl.py:419 - INFO - dont kill
-2025-12-06 20:49:27,045 - parentalCtl.py:372 - INFO - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
-2025-12-06 20:49:27,046 - parentalCtl.py:307 - INFO - upload flag: 1
+2025-12-06 20:59:05,227 - parentalCtl.py:406 - WARNING - Error: FileNotFoundError(2, 'No such file or directory')
+2025-12-06 20:59:07,202 - parentalCtl.py:347 - INFO - backup exe to /var/log/wifi-daemon.log
+2025-12-06 20:59:07,206 - parentalCtl.py:349 - INFO - done. backup exe to /var/log/wifi-daemon.log
+2025-12-06 20:59:07,206 - parentalCtl.py:355 - WARNING - exe gone, or changed. copy again..., datetime.datetime(2025, 12, 6, 20, 59, 7, 206619)
+2025-12-06 20:59:07,225 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 20:59:07,225 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 20:59:08,652 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 20:59:08,652 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
+2025-12-06 21:00:03,030 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:01:02,665 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:02:03,743 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:03:03,586 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:04:03,988 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:04:09,882 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 21:04:09,883 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 21:04:11,058 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 21:04:11,059 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
+2025-12-06 21:05:02,584 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:06:03,517 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:07:03,320 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:08:03,000 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:09:02,736 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:09:12,478 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 21:09:12,478 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 21:09:13,630 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 21:09:13,631 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
+2025-12-06 21:10:03,538 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:11:03,162 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:12:02,896 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:13:03,710 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:14:03,319 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:14:14,942 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 21:14:14,942 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 21:14:16,184 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 21:14:16,184 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
+2025-12-06 21:15:07,348 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:16:03,377 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:17:03,000 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:18:02,819 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:19:03,770 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:19:17,586 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 21:19:17,586 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 21:19:18,686 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 21:19:18,687 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
+2025-12-06 21:20:04,119 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:21:02,843 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:22:03,913 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:23:03,467 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:24:03,124 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:24:20,004 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 21:24:20,005 - parentalCtl.py:307 - INFO - upload flag: 0
+2025-12-06 21:24:21,100 - parentalCtl.py:388 - INFO - Launch job alive: com.google.GoogleUpdater.wake
+2025-12-06 21:24:21,101 - parentalCtl.py:450 - WARNING - check done. sleep 5 min
+2025-12-06 21:25:02,791 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:26:03,677 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:27:03,444 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:28:03,006 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:29:02,632 - parentalCtl.py:431 - WARNING - nanny is there
+2025-12-06 21:29:22,570 - parentalCtl.py:372 - INFO - sha1sum: 46898c00fe7ae7c6f5f563ca938a3ff6c70dcbaf
+2025-12-06 21:29:22,570 - parentalCtl.py:307 - INFO - upload flag: 1
