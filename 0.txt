@@ -1,300 +1,300 @@
-2025-12-06 14:20:29,649 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:20:29,649 - parentalCtl.py:135 - WARNING - allowedTime: 14:20:29.649361, 20:30:00, 22:30:00
-2025-12-06 14:20:29,649 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:20:29,650 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:20:29,650 - parentalCtl.py:135 - WARNING - allowedTime: 14:20:29.650547, 21:30:00, 22:45:00
-2025-12-06 14:20:29,650 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:20:29,650 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:20:29,650 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:20:29,650 - parentalCtl.py:135 - WARNING - allowedTime: 14:20:29.650736, 21:00:00, 22:30:00
-2025-12-06 14:21:50,994 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:21:51,005 - parentalCtl.py:261 - WARNING - sha1sum: 262a51d6fd1002da143422e6a59cc6bc4c164246
-2025-12-06 14:21:51,005 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:21:51,007 - parentalCtl.py:135 - WARNING - allowedTime: 14:21:51.005536, 21:00:00, 22:45:00
-2025-12-06 14:21:51,007 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:21:51,007 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:21:51,007 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:21:51,007 - parentalCtl.py:135 - WARNING - allowedTime: 14:21:51.007435, 20:30:00, 22:30:00
-2025-12-06 14:21:51,007 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:21:51,008 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:21:51,008 - parentalCtl.py:135 - WARNING - allowedTime: 14:21:51.008890, 21:30:00, 22:45:00
-2025-12-06 14:21:51,008 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:21:51,008 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:21:51,009 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:21:51,009 - parentalCtl.py:135 - WARNING - allowedTime: 14:21:51.009035, 21:00:00, 22:30:00
-2025-12-06 14:23:12,536 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:23:12,547 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:23:12,548 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:23:12,549 - parentalCtl.py:135 - WARNING - allowedTime: 14:23:12.548139, 21:00:00, 22:45:00
-2025-12-06 14:23:12,549 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:23:12,550 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:23:12,550 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:23:12,550 - parentalCtl.py:135 - WARNING - allowedTime: 14:23:12.550072, 20:30:00, 22:30:00
-2025-12-06 14:23:12,550 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:23:12,551 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:23:12,552 - parentalCtl.py:135 - WARNING - allowedTime: 14:23:12.552003, 21:30:00, 22:45:00
-2025-12-06 14:23:12,552 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:23:12,552 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:23:12,552 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:23:12,552 - parentalCtl.py:135 - WARNING - allowedTime: 14:23:12.552196, 21:00:00, 22:30:00
-2025-12-06 14:24:34,994 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:24:35,006 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:24:35,007 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:24:35,009 - parentalCtl.py:135 - WARNING - allowedTime: 14:24:35.007151, 21:00:00, 22:45:00
-2025-12-06 14:24:35,009 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:24:35,009 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:24:35,009 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:24:35,009 - parentalCtl.py:135 - WARNING - allowedTime: 14:24:35.009275, 20:30:00, 22:30:00
-2025-12-06 14:24:35,009 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:24:35,010 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:24:35,010 - parentalCtl.py:135 - WARNING - allowedTime: 14:24:35.010664, 21:30:00, 22:45:00
-2025-12-06 14:24:35,010 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:24:35,010 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:24:35,010 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:24:35,010 - parentalCtl.py:135 - WARNING - allowedTime: 14:24:35.010832, 21:00:00, 22:30:00
-2025-12-06 14:25:57,036 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:25:57,047 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:25:57,047 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:25:57,050 - parentalCtl.py:135 - WARNING - allowedTime: 14:25:57.048016, 21:00:00, 22:45:00
-2025-12-06 14:25:57,050 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:25:57,050 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:25:57,050 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:25:57,050 - parentalCtl.py:135 - WARNING - allowedTime: 14:25:57.050262, 20:30:00, 22:30:00
-2025-12-06 14:25:57,050 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:25:57,051 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:25:57,051 - parentalCtl.py:135 - WARNING - allowedTime: 14:25:57.051917, 21:30:00, 22:45:00
-2025-12-06 14:25:57,052 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:25:57,052 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:25:57,052 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:25:57,052 - parentalCtl.py:135 - WARNING - allowedTime: 14:25:57.052122, 21:00:00, 22:30:00
-2025-12-06 14:27:18,878 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:27:18,887 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:27:18,888 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:27:18,890 - parentalCtl.py:135 - WARNING - allowedTime: 14:27:18.888043, 21:00:00, 22:45:00
-2025-12-06 14:27:18,890 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:27:18,890 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:27:18,890 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:27:18,890 - parentalCtl.py:135 - WARNING - allowedTime: 14:27:18.890627, 20:30:00, 22:30:00
-2025-12-06 14:27:18,890 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:27:18,892 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:27:18,892 - parentalCtl.py:135 - WARNING - allowedTime: 14:27:18.892318, 21:30:00, 22:45:00
-2025-12-06 14:27:18,892 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:27:18,892 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:27:18,892 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:27:18,892 - parentalCtl.py:135 - WARNING - allowedTime: 14:27:18.892569, 21:00:00, 22:30:00
-2025-12-06 14:28:46,066 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:28:46,077 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:28:46,077 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:28:46,079 - parentalCtl.py:135 - WARNING - allowedTime: 14:28:46.077919, 21:00:00, 22:45:00
-2025-12-06 14:28:46,079 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:28:46,079 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:28:46,079 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:28:46,079 - parentalCtl.py:135 - WARNING - allowedTime: 14:28:46.079943, 20:30:00, 22:30:00
-2025-12-06 14:28:46,079 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:28:46,080 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:28:46,081 - parentalCtl.py:135 - WARNING - allowedTime: 14:28:46.080976, 21:30:00, 22:45:00
-2025-12-06 14:28:46,081 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:28:46,081 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:28:46,081 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:28:46,081 - parentalCtl.py:135 - WARNING - allowedTime: 14:28:46.081128, 21:00:00, 22:30:00
-2025-12-06 14:30:08,534 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:30:08,546 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:30:08,546 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:30:08,548 - parentalCtl.py:135 - WARNING - allowedTime: 14:30:08.546498, 21:00:00, 22:45:00
-2025-12-06 14:30:08,548 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:30:08,548 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:30:08,548 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:30:08,548 - parentalCtl.py:135 - WARNING - allowedTime: 14:30:08.548812, 20:30:00, 22:30:00
-2025-12-06 14:30:08,548 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:30:08,550 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:30:08,550 - parentalCtl.py:135 - WARNING - allowedTime: 14:30:08.550291, 21:30:00, 22:45:00
-2025-12-06 14:30:08,550 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:30:08,550 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:30:08,550 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:30:08,550 - parentalCtl.py:135 - WARNING - allowedTime: 14:30:08.550465, 21:00:00, 22:30:00
-2025-12-06 14:31:30,892 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:31:30,903 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:31:30,903 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:31:30,905 - parentalCtl.py:135 - WARNING - allowedTime: 14:31:30.903982, 21:00:00, 22:45:00
-2025-12-06 14:31:30,906 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:31:30,906 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:31:30,906 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:31:30,906 - parentalCtl.py:135 - WARNING - allowedTime: 14:31:30.906238, 20:30:00, 22:30:00
-2025-12-06 14:31:30,906 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:31:30,907 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:31:30,907 - parentalCtl.py:135 - WARNING - allowedTime: 14:31:30.907793, 21:30:00, 22:45:00
-2025-12-06 14:31:30,907 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:31:30,907 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:31:30,907 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:31:30,908 - parentalCtl.py:135 - WARNING - allowedTime: 14:31:30.907977, 21:00:00, 22:30:00
-2025-12-06 14:32:53,789 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:32:53,800 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:32:53,801 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:32:53,803 - parentalCtl.py:135 - WARNING - allowedTime: 14:32:53.801282, 21:00:00, 22:45:00
-2025-12-06 14:32:53,804 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:32:53,804 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:32:53,804 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:32:53,804 - parentalCtl.py:135 - WARNING - allowedTime: 14:32:53.804290, 20:30:00, 22:30:00
-2025-12-06 14:32:53,804 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:32:53,806 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:32:53,806 - parentalCtl.py:135 - WARNING - allowedTime: 14:32:53.806390, 21:30:00, 22:45:00
-2025-12-06 14:32:53,806 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:32:53,806 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:32:53,806 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:32:53,806 - parentalCtl.py:135 - WARNING - allowedTime: 14:32:53.806631, 21:00:00, 22:30:00
-2025-12-06 14:34:15,965 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:34:15,975 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:34:15,975 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:34:15,977 - parentalCtl.py:135 - WARNING - allowedTime: 14:34:15.975901, 21:00:00, 22:45:00
-2025-12-06 14:34:15,977 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:34:15,977 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:34:15,977 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:34:15,977 - parentalCtl.py:135 - WARNING - allowedTime: 14:34:15.977965, 20:30:00, 22:30:00
-2025-12-06 14:34:15,978 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:34:15,979 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:34:15,979 - parentalCtl.py:135 - WARNING - allowedTime: 14:34:15.979365, 21:30:00, 22:45:00
-2025-12-06 14:34:15,979 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:34:15,979 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:34:15,979 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:34:15,979 - parentalCtl.py:135 - WARNING - allowedTime: 14:34:15.979524, 21:00:00, 22:30:00
-2025-12-06 14:35:36,938 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:35:36,950 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:35:36,950 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:35:36,952 - parentalCtl.py:135 - WARNING - allowedTime: 14:35:36.950814, 21:00:00, 22:45:00
-2025-12-06 14:35:36,953 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:35:36,953 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:35:36,953 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:35:36,953 - parentalCtl.py:135 - WARNING - allowedTime: 14:35:36.953194, 20:30:00, 22:30:00
-2025-12-06 14:35:36,953 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:35:36,954 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:35:36,954 - parentalCtl.py:135 - WARNING - allowedTime: 14:35:36.954848, 21:30:00, 22:45:00
-2025-12-06 14:35:36,954 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:35:36,954 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:35:36,955 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:35:36,955 - parentalCtl.py:135 - WARNING - allowedTime: 14:35:36.955036, 21:00:00, 22:30:00
-2025-12-06 14:36:59,782 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:36:59,792 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:36:59,792 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:36:59,794 - parentalCtl.py:135 - WARNING - allowedTime: 14:36:59.792340, 21:00:00, 22:45:00
-2025-12-06 14:36:59,794 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:36:59,794 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:36:59,794 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:36:59,794 - parentalCtl.py:135 - WARNING - allowedTime: 14:36:59.794879, 20:30:00, 22:30:00
-2025-12-06 14:36:59,794 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:36:59,796 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:36:59,796 - parentalCtl.py:135 - WARNING - allowedTime: 14:36:59.796285, 21:30:00, 22:45:00
-2025-12-06 14:36:59,796 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:36:59,796 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:36:59,796 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:36:59,796 - parentalCtl.py:135 - WARNING - allowedTime: 14:36:59.796448, 21:00:00, 22:30:00
-2025-12-06 14:38:22,339 - parentalCtl.py:180 - WARNING - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:38:22,350 - parentalCtl.py:261 - WARNING - sha1sum: 72ba1b3abfed25f38abd1ad7aebe83c055535ec2
-2025-12-06 14:38:22,350 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 30
-2025-12-06 14:38:22,352 - parentalCtl.py:135 - WARNING - allowedTime: 14:38:22.350309, 21:00:00, 22:45:00
-2025-12-06 14:38:22,352 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:38:22,352 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:38:22,352 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 30
-2025-12-06 14:38:22,352 - parentalCtl.py:135 - WARNING - allowedTime: 14:38:22.352379, 20:30:00, 22:30:00
-2025-12-06 14:38:22,352 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:38:22,354 - parentalCtl.py:109 - WARNING - allowedOnce: 21:30:00, 22:45:00, 0
-2025-12-06 14:38:22,354 - parentalCtl.py:135 - WARNING - allowedTime: 14:38:22.354326, 21:30:00, 22:45:00
-2025-12-06 14:38:22,354 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:38:22,354 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:38:22,354 - parentalCtl.py:120 - WARNING - allowedDaily: 21:00:00, 22:30:00, 0
-2025-12-06 14:38:22,354 - parentalCtl.py:135 - WARNING - allowedTime: 14:38:22.354630, 21:00:00, 22:30:00
-2025-12-06 14:39:44,956 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:39:44,966 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:39:44,968 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:39:44,968 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:39:44,968 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:39:44,970 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:39:44,970 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:41:07,486 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:41:07,497 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:41:07,499 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:41:07,499 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:41:07,499 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:41:07,500 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:41:07,501 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:42:30,374 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:42:30,388 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:42:30,390 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:42:30,390 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:42:30,390 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:42:30,390 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:42:30,390 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:43:52,558 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:43:52,568 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:43:52,570 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:43:52,570 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:43:52,570 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:43:52,572 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:43:52,572 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:45:14,886 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:45:14,896 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:45:14,898 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:45:14,899 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:45:14,899 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:45:14,900 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:45:14,900 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:46:38,847 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:46:38,858 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:46:38,860 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:46:38,861 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:46:38,861 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:46:38,862 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:46:38,862 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:48:02,615 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:48:02,626 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:48:02,628 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:48:02,628 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:48:02,629 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:48:02,630 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:48:02,630 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:49:26,010 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:49:26,020 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:49:26,022 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:49:26,022 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:49:26,022 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:49:26,023 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:49:26,023 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:50:48,666 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:50:48,676 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:50:48,678 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:50:48,679 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:50:48,679 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:50:48,680 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:50:48,680 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:52:09,998 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:52:10,010 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:52:10,013 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:52:10,013 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:52:10,013 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:52:10,014 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:52:10,014 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:53:31,179 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:53:31,191 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:53:31,193 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:53:31,193 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:53:31,193 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:53:31,195 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:53:31,195 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:54:53,329 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:54:53,338 - parentalCtl.py:261 - WARNING - sha1sum: 594d620eea670d0a0d7425992dc08e8c4a13eb17
-2025-12-06 14:54:53,340 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:54:53,340 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:54:53,340 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:54:53,341 - parentalCtl.py:102 - INFO - allowed=[4, 5, 6], today=5
-2025-12-06 14:54:53,341 - parentalCtl.py:104 - INFO - today is allowed
-2025-12-06 14:56:15,101 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:56:15,110 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
-2025-12-06 14:56:15,113 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:57:38,272 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:57:38,285 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
-2025-12-06 14:57:38,287 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 14:58:59,803 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 14:58:59,812 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
-2025-12-06 14:58:59,815 - parentalCtl.py:268 - INFO - whitelist domains: no
-2025-12-06 15:00:21,580 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
-2025-12-06 15:00:21,590 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
-2025-12-06 15:00:21,593 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:01:43,954 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
+2025-12-06 15:01:43,956 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:03:06,514 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:03:06,525 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
+2025-12-06 15:03:06,528 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:04:28,379 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:04:28,389 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
+2025-12-06 15:04:28,391 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:05:50,340 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:05:50,350 - parentalCtl.py:261 - WARNING - sha1sum: c70dc51822c5bb97812b9e42ae924ccd4e1ee77c
+2025-12-06 15:05:50,352 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:07:12,697 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:07:12,709 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:07:12,711 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:08:36,621 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:08:36,633 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:08:36,635 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:09:59,098 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:09:59,108 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:09:59,110 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:11:21,309 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:11:21,318 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:11:21,321 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:12:44,126 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:12:44,136 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:12:44,139 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:14:06,508 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:14:06,520 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:14:06,523 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:15:29,506 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:15:29,516 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:15:29,518 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:16:51,889 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:16:51,899 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:16:51,901 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:18:15,224 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:18:15,234 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:18:15,236 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:19:38,906 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:19:38,919 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:19:38,921 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:26:20,590 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:26:20,601 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:26:20,603 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:27:42,760 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:27:42,770 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:27:42,772 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 15:43:11,985 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": true, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 15:43:12,089 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 15:43:12,091 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 16:00:48,102 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 16:00:48,115 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 16:00:48,117 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 16:43:23,418 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 16:43:23,431 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 16:43:23,433 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 16:58:31,214 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 16:58:31,226 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 16:58:31,229 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:37:38,433 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:37:38,445 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:37:38,447 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:50:07,652 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:50:07,665 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:50:07,668 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:51:29,446 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:51:29,457 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:51:29,459 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:52:52,308 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:52:52,319 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:52:52,321 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:54:14,510 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:54:14,520 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:54:14,522 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:55:37,108 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:55:37,121 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:55:37,123 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:56:59,988 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:57:00,000 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:57:00,002 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:58:22,516 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:58:22,526 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:58:22,528 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 17:59:45,253 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 17:59:45,263 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 17:59:45,265 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:01:07,346 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:01:07,358 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:01:07,360 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:02:29,762 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:02:29,774 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:02:29,776 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:03:52,491 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:03:52,503 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:03:52,505 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:05:14,559 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:05:14,570 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:05:14,572 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:06:39,089 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:06:39,103 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:06:39,105 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:08:02,573 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:08:02,584 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:08:02,587 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:09:25,070 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:09:25,080 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:09:25,082 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:10:47,106 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:10:47,115 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:10:47,117 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:12:07,787 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:12:07,799 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:12:07,802 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:13:29,932 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:13:29,944 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:13:29,946 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:14:51,419 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:14:51,429 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:14:51,432 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:16:14,123 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:16:14,133 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:16:14,135 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:17:38,573 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:17:38,586 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:17:38,588 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:19:01,543 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:19:01,555 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:19:01,557 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:20:23,424 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:20:23,434 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:20:23,436 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:21:47,026 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:21:47,036 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:21:47,038 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:23:08,529 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:23:08,542 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:23:08,544 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:24:31,693 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:24:31,704 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:24:31,706 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:25:54,150 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:25:54,161 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:25:54,163 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:27:16,297 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:27:16,308 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:27:16,310 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:28:40,839 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:28:40,852 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:28:40,854 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:30:04,498 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:30:04,510 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:30:04,512 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:31:26,932 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:31:26,941 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:31:26,944 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:32:49,634 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:32:49,644 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:32:49,646 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:34:12,113 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:34:12,123 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:34:12,125 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:35:34,215 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:35:34,227 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:35:34,230 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:36:56,803 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:36:56,813 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:36:56,815 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:38:18,377 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:38:18,388 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:38:18,390 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:39:39,609 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:39:39,619 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:39:39,621 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:41:03,459 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:41:03,471 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:41:03,473 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:42:25,720 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:42:25,729 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:42:25,732 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:43:47,844 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:43:47,854 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:43:47,856 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:45:09,704 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:45:09,716 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:45:09,718 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:46:32,177 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:46:32,189 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:46:32,192 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:47:54,821 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:47:54,832 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:47:54,834 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:49:17,247 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:49:17,260 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:49:17,263 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:50:41,729 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:50:41,740 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:50:41,742 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:52:05,238 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:52:05,251 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:52:05,253 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:53:28,055 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:53:28,065 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:53:28,067 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 18:54:50,465 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 18:54:50,475 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 18:54:50,477 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 19:55:33,840 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 19:55:33,855 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 19:55:33,858 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 19:56:57,953 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 19:56:57,966 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 19:56:57,968 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 19:58:19,417 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 19:58:19,428 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 19:58:19,431 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 19:59:41,024 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 19:59:41,034 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 19:59:41,036 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:01:06,450 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:01:06,461 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:01:06,463 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:02:28,607 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:02:28,620 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:02:28,623 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:03:51,873 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:03:51,883 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:03:51,886 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:05:13,739 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:05:13,751 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:05:13,754 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:06:38,343 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:06:38,355 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:06:38,357 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:08:00,864 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:08:00,874 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:08:00,876 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:09:23,549 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:09:23,560 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:09:23,562 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:13:10,744 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:13:10,756 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:13:10,759 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:14:33,284 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:14:33,295 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:14:33,297 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:15:55,803 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:15:55,813 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:15:55,816 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:17:17,793 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:17:17,805 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:17:17,808 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:18:42,398 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:18:42,410 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:18:42,412 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:20:04,456 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:20:04,469 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:20:04,472 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:21:26,877 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:21:26,887 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:21:26,890 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:22:48,449 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:22:48,461 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:22:48,463 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:24:10,746 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:24:10,758 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:24:10,760 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:25:33,642 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:25:33,653 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:25:33,656 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:26:56,575 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:26:56,585 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:26:56,588 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:28:19,653 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:28:19,665 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:28:19,667 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:29:44,472 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:29:44,486 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:29:44,488 - parentalCtl.py:268 - INFO - whitelist domains: no
+2025-12-06 20:31:07,548 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:31:07,559 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:31:07,562 - parentalCtl.py:265 - INFO - whitelist domains: yes
+2025-12-06 20:31:07,564 - parentalCtl.py:198 - INFO - Update to new hosts:   
+2025-12-06 20:32:30,584 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:32:30,594 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:32:30,596 - parentalCtl.py:265 - INFO - whitelist domains: yes
+2025-12-06 20:33:55,309 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:33:55,319 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:33:55,321 - parentalCtl.py:265 - INFO - whitelist domains: yes
+2025-12-06 20:35:18,236 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:35:18,248 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:35:18,250 - parentalCtl.py:265 - INFO - whitelist domains: yes
+2025-12-06 20:36:41,363 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:36:41,375 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:36:41,378 - parentalCtl.py:265 - INFO - whitelist domains: yes
+2025-12-06 20:38:04,682 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:38:04,693 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:38:04,695 - parentalCtl.py:265 - INFO - whitelist domains: yes
+2025-12-06 20:39:27,797 - parentalCtl.py:180 - INFO - config: '{"allow_time": {"weekday": [4, 5, 6], "daily": {"start": "21:00:00", "end": "22:30:00", "description": "Evening free time period"}, "one_time": {"start": "21:30:00", "end": "22:45:00", "flag": false, "description": "One-time allowance period"}}, "bad_processes": ["lunar", "Roblox", "minecraft", "riotgame"], "white_processes": ["ThinkAcademy", "Zoom"]}'
+2025-12-06 20:39:27,808 - parentalCtl.py:261 - WARNING - sha1sum: eb7bb84cf59d4eb9fe323e5f4d7f2a5432847c40
+2025-12-06 20:39:27,810 - parentalCtl.py:265 - INFO - whitelist domains: yes
