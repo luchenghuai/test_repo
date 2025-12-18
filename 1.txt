@@ -1,80 +1,256 @@
 Timestamp                       Thread     Type        Activity             PID    TTL  
-2025-12-17 22:16:18.354920-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
-2025-12-17 22:16:18.410217-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
-2025-12-17 22:16:18.419375-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
-2025-12-17 22:16:18.427318-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
-2025-12-17 22:16:18.427375-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
-2025-12-17 22:16:18.435066-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
+2025-12-17 22:30:15.939442-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:30:16.057922-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:30:16.079384-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:30:16.083497-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:30:16.087657-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:30:16.092123-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:30:19.983194-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:31:20.058609-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:31:20.160226-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:31:20.181842-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:31:20.186164-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:31:20.190399-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:31:20.194893-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:31:24.906877-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:32:24.979693-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:32:25.066045-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:32:25.115154-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:32:25.120245-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:32:25.124843-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:32:25.129666-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:32:28.766662-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:33:28.839098-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:33:28.957907-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:33:28.985941-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:33:28.990302-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:33:28.994521-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:33:28.998903-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:33:33.808026-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:34:33.855975-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:34:33.951620-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:34:33.980768-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:34:33.985597-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:34:33.991009-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:34:33.996798-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:34:38.116306-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:35:38.185078-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:35:38.254064-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
+2025-12-17 22:35:38.261040-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:35:38.266595-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
+2025-12-17 22:35:38.266643-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
+2025-12-17 22:35:38.272323-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
 output: uid=502(vincentlu) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
-2025-12-17 22:16:18.435105-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
-2025-12-17 22:16:18.441116-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
+2025-12-17 22:35:38.272369-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:35:38.277127-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
 output: id: luchenghuai: no such user
-2025-12-17 22:16:18.447628-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
-output: uid=503(heyi31) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
-2025-12-17 22:16:18.447675-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
-2025-12-17 22:16:18.447707-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
-2025-12-17 22:16:18.453654-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
-2025-12-17 22:16:18.453698-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
-2025-12-17 22:16:18.453718-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
-2025-12-17 22:16:18.458906-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
-2025-12-17 22:16:18.458952-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
-2025-12-17 22:16:18.458969-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
-2025-12-17 22:16:18.464383-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
-2025-12-17 22:16:18.464423-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
-2025-12-17 22:16:18.464642-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
-2025-12-17 22:16:18.467527-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
-2025-12-17 22:16:19.996791-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
+2025-12-17 22:35:38.287259-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
+output: uid=503(heyi31) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),80(admin),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),33(_appstore),98(_lpadmin),100(_lpoperator),204(_developer),250(_analyticsusers),395(com.apple.access_ftp),398(com.apple.access_screensharing),399(com.apple.access_ssh),400(com.apple.access_remote_ae),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:35:38.287325-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] account cannot in admin: heyi31, TODO action
+2025-12-17 22:35:38.317360-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: /usr/sbin/dseditgroup -o edit -d heyi31 -t user admin,
+2025-12-17 22:35:38.317449-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:35:38.323189-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
+2025-12-17 22:35:38.323242-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
+2025-12-17 22:35:38.323267-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:35:38.328141-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
+2025-12-17 22:35:38.328183-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
+2025-12-17 22:35:38.328204-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:35:38.332922-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
+2025-12-17 22:35:38.332959-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
+2025-12-17 22:35:38.333504-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:35:38.336407-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:35:39.801583-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
  * branch            main       -> FETCH_HEAD
 Already up to date.
-2025-12-17 22:16:20.014836-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
-2025-12-17 22:16:20.015124-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 0
-2025-12-17 22:16:20.035424-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+2025-12-17 22:35:39.825702-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:35:39.826299-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 0
+2025-12-17 22:35:39.858023-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
-2025-12-17 22:16:21.301805-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
-2025-12-17 22:16:21.330653-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+2025-12-17 22:35:41.324574-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
+2025-12-17 22:35:41.383414-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
-2025-12-17 22:16:22.557718-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
-2025-12-17 22:16:22.582578-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.GoogleUpdater.wake
-2025-12-17 22:16:22.592092-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.keystone.agent
-2025-12-17 22:16:22.592147-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
-2025-12-17 22:17:22.665174-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
-2025-12-17 22:17:22.727100-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
-2025-12-17 22:17:22.733159-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
-2025-12-17 22:17:22.737952-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
-2025-12-17 22:17:22.737996-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
-2025-12-17 22:17:22.743683-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
+2025-12-17 22:35:42.501716-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
+2025-12-17 22:35:42.532983-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.GoogleUpdater.wake
+2025-12-17 22:35:42.559906-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.keystone.agent
+2025-12-17 22:35:42.560033-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:36:42.620641-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:36:42.702655-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
+2025-12-17 22:36:42.710453-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:36:42.716522-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
+2025-12-17 22:36:42.716580-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
+2025-12-17 22:36:42.723093-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
 output: uid=502(vincentlu) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
-2025-12-17 22:17:22.743716-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
-2025-12-17 22:17:22.748617-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
+2025-12-17 22:36:42.723142-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:36:42.728507-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
 output: id: luchenghuai: no such user
-2025-12-17 22:17:22.754466-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
+2025-12-17 22:36:42.734723-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
 output: uid=503(heyi31) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
-2025-12-17 22:17:22.754514-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
-2025-12-17 22:17:22.754546-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
-2025-12-17 22:17:22.759077-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
-2025-12-17 22:17:22.759121-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
-2025-12-17 22:17:22.759146-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
-2025-12-17 22:17:22.763733-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
-2025-12-17 22:17:22.763772-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
-2025-12-17 22:17:22.763794-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
-2025-12-17 22:17:22.768486-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
-2025-12-17 22:17:22.768593-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
-2025-12-17 22:17:22.768785-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
-2025-12-17 22:17:22.771753-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
-2025-12-17 22:17:24.390782-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
+2025-12-17 22:36:42.734764-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:36:42.734794-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:36:42.739599-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
+2025-12-17 22:36:42.739642-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
+2025-12-17 22:36:42.739661-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:36:42.744235-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
+2025-12-17 22:36:42.744274-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
+2025-12-17 22:36:42.744293-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:36:42.749024-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
+2025-12-17 22:36:42.749075-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
+2025-12-17 22:36:42.749585-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:36:42.752615-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:36:44.397324-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
  * branch            main       -> FETCH_HEAD
-   4e85093..aaa48e2  main       -> origin/main
-Updating 4e85093..aaa48e2
+Already up to date.
+2025-12-17 22:36:44.409634-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:36:44.409730-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 0
+2025-12-17 22:36:44.426686-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+2025-12-17 22:36:45.529088-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
+2025-12-17 22:36:45.589025-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+2025-12-17 22:36:46.690498-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
+2025-12-17 22:36:46.728658-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.GoogleUpdater.wake
+2025-12-17 22:36:46.744259-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.keystone.agent
+2025-12-17 22:36:46.744367-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:37:46.818304-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:37:46.917690-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
+2025-12-17 22:37:46.925224-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:37:46.931072-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
+2025-12-17 22:37:46.931123-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
+2025-12-17 22:37:46.937861-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
+output: uid=502(vincentlu) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:37:46.937928-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:37:46.943398-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
+output: id: luchenghuai: no such user
+2025-12-17 22:37:46.949577-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
+output: uid=503(heyi31) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:37:46.949619-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:37:46.949650-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:37:46.954763-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
+2025-12-17 22:37:46.954807-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
+2025-12-17 22:37:46.954833-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:37:46.959864-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
+2025-12-17 22:37:46.959913-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
+2025-12-17 22:37:46.959937-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:37:46.965270-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
+2025-12-17 22:37:46.965312-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
+2025-12-17 22:37:46.966035-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:37:46.969407-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:37:48.462352-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+2025-12-17 22:37:48.487206-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:37:48.487753-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 0
+2025-12-17 22:37:48.517439-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+2025-12-17 22:37:49.825478-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
+2025-12-17 22:37:49.868319-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+2025-12-17 22:37:51.260184-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,Everything up-to-date
+2025-12-17 22:37:51.298078-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.GoogleUpdater.wake
+2025-12-17 22:37:51.313516-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.keystone.agent
+2025-12-17 22:37:51.313607-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:38:51.323578-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:38:51.395244-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
+2025-12-17 22:38:51.401800-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:38:51.407416-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
+2025-12-17 22:38:51.407461-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
+2025-12-17 22:38:51.413196-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
+output: uid=502(vincentlu) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:38:51.413229-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:38:51.418055-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
+output: id: luchenghuai: no such user
+2025-12-17 22:38:51.423501-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
+output: uid=503(heyi31) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:38:51.423537-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:38:51.423561-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:38:51.428060-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
+2025-12-17 22:38:51.428106-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
+2025-12-17 22:38:51.428138-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:38:51.432680-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
+2025-12-17 22:38:51.432735-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
+2025-12-17 22:38:51.432758-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:38:51.437211-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
+2025-12-17 22:38:51.437246-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
+2025-12-17 22:38:51.437921-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:38:51.440960-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:38:52.999750-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+2025-12-17 22:38:53.017144-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:38:53.017310-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 0
+2025-12-17 22:38:53.041427-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+2025-12-17 22:38:54.362293-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,To github.com:luchenghuai/test_repo.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:luchenghuai/test_repo.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2025-12-17 22:38:54.391309-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+2025-12-17 22:38:55.628237-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 1,To github.com:luchenghuai/test_repo.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'github.com:luchenghuai/test_repo.git'
+hint: Updates were rejected because the remote contains work that you do not
+hint: have locally. This is usually caused by another repository pushing to
+hint: the same ref. If you want to integrate the remote changes, use
+hint: 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+2025-12-17 22:38:55.645284-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.GoogleUpdater.wake
+2025-12-17 22:38:55.660621-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] Launch job alive: com.google.keystone.agent
+2025-12-17 22:38:55.660699-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] check done. sleep 60 seconds
+2025-12-17 22:39:55.678040-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] checking nanny
+2025-12-17 22:39:55.771106-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny config: {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['luchenghuai']}
+2025-12-17 22:39:55.777813-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: .localized
+2025-12-17 22:39:55.783469-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id .localized, id: .localized: no such user
+2025-12-17 22:39:55.783523-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user .localized already deleted
+2025-12-17 22:39:55.789407-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id vincentlu, 
+output: uid=502(vincentlu) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:39:55.789445-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:39:55.794199-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id luchenghuai, 
+output: id: luchenghuai: no such user
+2025-12-17 22:39:55.799569-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd: id heyi31, 
+output: uid=503(heyi31) gid=20(staff) groups=20(staff),12(everyone),61(localaccounts),79(_appserverusr),81(_appserveradm),702(com.apple.sharepoint.group.2),704(com.apple.sharepoint.group.4),100(_lpoperator),701(com.apple.sharepoint.group.1),703(com.apple.sharepoint.group.3)
+2025-12-17 22:39:55.799601-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] False alarm. User is not admin
+2025-12-17 22:39:55.799625-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: shared
+2025-12-17 22:39:55.803792-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id shared, id: shared: no such user
+2025-12-17 22:39:55.803832-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user shared already deleted
+2025-12-17 22:39:55.803851-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: vincentlu1
+2025-12-17 22:39:55.808074-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id vincentlu1, id: vincentlu1: no such user
+2025-12-17 22:39:55.808107-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user vincentlu1 already deleted
+2025-12-17 22:39:55.808124-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] found illegal account: deleted users
+2025-12-17 22:39:55.812153-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] cmd, output: id deleted users, id: deleted: no such user
+2025-12-17 22:39:55.812186-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] user deleted users already deleted
+2025-12-17 22:39:55.812711-0800 0x346c     Default     0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny is not there
+2025-12-17 22:39:55.815519-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] nanny sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:39:57.282915-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,From github.com:luchenghuai/test_repo
+ * branch            main       -> FETCH_HEAD
+   93c2d92..5685117  main       -> origin/main
+Updating 93c2d92..5685117
 Fast-forward
  upload | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-2025-12-17 22:17:24.404662-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
-2025-12-17 22:17:24.404795-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 1
-2025-12-17 22:17:24.432778-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,[main 032df55] upload
+2025-12-17 22:39:57.291945-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] sha1sum: fce04ef2c3a9d1f084e3ca4c9314be4de2a077f2
+2025-12-17 22:39:57.292011-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] upload flag: 1
+2025-12-17 22:39:57.312226-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,[main 79dcfa2] upload
  Committer: System Administrator <root@Vincent-Macbook-Pro.local>
 Your name and email address were configured automatically based
 on your username and hostname. Please check that they are accurate.
@@ -89,5 +265,5 @@ After doing this, you may fix the identity used for this commit with:
     git commit --amend --reset-author
 
  1 file changed, 1 insertion(+), 1 deletion(-)
-2025-12-17 22:17:25.991114-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,To github.com:luchenghuai/test_repo.git
-   aaa48e2..032df55  main -> main
+2025-12-17 22:39:58.774789-0800 0x346c     Info        0x0                  1052   0    calendar: (_pyoslog.cpython-310-darwin.so) [pCtlAll:root] repo: 0,To github.com:luchenghuai/test_repo.git
+   5685117..79dcfa2  main -> main
