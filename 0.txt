@@ -1,300 +1,300 @@
-2026-01-07 15:53:02,921 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:03,277 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:14,516 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:14,881 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:25,943 - parentalCtl.py:332 - WARNING - del real output: /Users/heyi31/Applications/Roblox.app
-2026-01-07 15:53:25,944 - parentalCtl.py:340 - INFO - delete bad dir: /Users/heyi31/Applications/Roblox.app
-2026-01-07 15:53:26,488 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:37,477 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:37,901 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:48,129 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:48,493 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:58,727 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:53:59,094 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:54:09,319 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:54:09,687 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:54:21,548 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:54:21,947 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:54:32,115 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:54:32,481 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:55:37,863 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 15:55:37,864 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 15:55:37,864 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 15:55:37,872 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 15:55:48,471 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:55:48,982 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:55:59,676 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:00,038 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:10,446 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:10,806 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:10,854 - parentalCtl.py:294 - INFO - found 76754 heyi31           /Users/heyi31/Applications/Roblox.app/Contents/MacOS/RobloxPlayer -firstLaunch true -isInstallerLaunch true
-2026-01-07 15:56:10,854 - parentalCtl.py:294 - INFO - found 76756 heyi31           /Users/heyi31/Applications/Roblox.app/Contents/MacOS/RobloxCrashHandler --no-rate-limit --crashCounter Mac-ROBLOXPlayer-Crash --baseUrl https://www.roblox.com/ --attachment=attachment_0.702.3.7020636_20260107T235308Z_Player_c45a6_last.log=/Users/heyi31/Library/Logs/Roblox/0.702.3.7020636_20260107T235308Z_Player_c45a6_last.log --database=/Users/heyi31/Library/Logs/Roblox/crashes --metrics-dir=/Users/heyi31/Library/Logs/Roblox/crashes --url=https://uploads.backtrace.rbx.com/post --annotation=AppVersion=0.702.3.7020636 --annotation=BaseUrl=https://www.roblox.com/ --annotation=CPUMake=Apple M4 Pro --annotation=EnableSessionEndCallback=true --annotation=EnableSessionStartCallback=true --annotation=EngineVersion=0.702.3.7020636 --annotation=Format=minidump --annotation=GPUMake=Main Display --annotation=OSPlatform=OSX --annotation=OSVersion=26.2.0 --annotation=PID=76754 --annotation=PlatformId=0 --annotation=RobloxChannel=production --annotation=RobloxGitHash=eb3fc118d4601a8d9376a3f926f63dad35650d55 --annotation=RobloxProduct=RobloxPlayer --annotation=TotalMemoryGB=24 --annotation=UniqueId=2642398294288168318 --annotation=UploadAttachmentKiloByteLimit=1000 --handshake-fd=5
-2026-01-07 15:56:10,859 - parentalCtl.py:301 - INFO - kill pid: kill -9 76754 76756
-2026-01-07 15:56:23,218 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:23,575 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:34,378 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:34,859 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:46,297 - parentalCtl.py:332 - WARNING - del real output: /Users/heyi31/Applications/Roblox.app
-2026-01-07 15:56:46,299 - parentalCtl.py:340 - INFO - delete bad dir: /Users/heyi31/Applications/Roblox.app
-2026-01-07 15:56:46,854 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:57,941 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:56:58,322 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:08,263 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:08,625 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:18,782 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:19,149 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:29,554 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:29,916 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:41,567 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:41,926 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:52,238 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:57:52,602 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:58:57,725 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 15:58:57,725 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 15:58:57,726 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 15:58:57,733 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 15:59:07,791 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:08,153 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:18,240 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:18,607 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:28,938 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:29,305 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:29,350 - parentalCtl.py:294 - INFO - found 76951 heyi31           /Users/heyi31/Applications/Roblox.app/Contents/MacOS/RobloxPlayer -firstLaunch true -isInstallerLaunch true
-2026-01-07 15:59:29,350 - parentalCtl.py:294 - INFO - found 76953 heyi31           /Users/heyi31/Applications/Roblox.app/Contents/MacOS/RobloxCrashHandler --no-rate-limit --crashCounter Mac-ROBLOXPlayer-Crash --baseUrl https://www.roblox.com/ --attachment=attachment_0.702.3.7020636_20260107T235636Z_Player_390e8_last.log=/Users/heyi31/Library/Logs/Roblox/0.702.3.7020636_20260107T235636Z_Player_390e8_last.log --database=/Users/heyi31/Library/Logs/Roblox/crashes --metrics-dir=/Users/heyi31/Library/Logs/Roblox/crashes --url=https://uploads.backtrace.rbx.com/post --annotation=AppVersion=0.702.3.7020636 --annotation=BaseUrl=https://www.roblox.com/ --annotation=CPUMake=Apple M4 Pro --annotation=EnableSessionEndCallback=true --annotation=EnableSessionStartCallback=true --annotation=EngineVersion=0.702.3.7020636 --annotation=Format=minidump --annotation=GPUMake=Main Display --annotation=OSPlatform=OSX --annotation=OSVersion=26.2.0 --annotation=PID=76951 --annotation=PlatformId=0 --annotation=RobloxChannel=production --annotation=RobloxGitHash=eb3fc118d4601a8d9376a3f926f63dad35650d55 --annotation=RobloxProduct=RobloxPlayer --annotation=TotalMemoryGB=24 --annotation=UniqueId=3225531430554951470 --annotation=UploadAttachmentKiloByteLimit=1000 --handshake-fd=5
-2026-01-07 15:59:29,355 - parentalCtl.py:301 - INFO - kill pid: kill -9 76951 76953
-2026-01-07 15:59:52,539 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 15:59:52,882 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:00:04,678 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:00:05,128 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:00:17,232 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:00:17,623 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:02:37,110 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:02:37,521 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:02:50,767 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:02:51,152 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:03:08,330 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:03:08,743 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:03:55,109 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:03:55,452 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:04:06,197 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:04:06,548 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:04:17,231 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:04:17,615 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:45:24,686 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 16:45:24,687 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 16:45:24,687 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 16:45:24,695 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 16:48:39,253 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:48:39,916 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:48:50,588 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:48:50,941 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:01,951 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:02,403 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:13,099 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:13,459 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:23,759 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:24,107 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:34,076 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:34,424 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:44,601 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:44,963 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:55,018 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:49:55,376 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:05,258 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:05,604 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:15,596 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:15,948 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:26,119 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:26,480 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:36,888 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:50:37,257 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:51:42,612 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 16:51:42,613 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 16:51:42,613 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 16:51:42,620 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 16:51:52,860 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:51:53,212 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:03,893 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:04,246 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:14,312 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:14,662 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:24,936 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:25,290 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:35,814 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:36,162 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:46,213 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:46,562 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:56,590 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:52:56,938 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:07,010 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:07,355 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:17,564 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:17,914 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:28,039 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:28,387 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:38,728 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:39,075 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:49,339 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:53:49,691 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:54:52,508 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 16:54:52,508 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 16:54:52,509 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 16:54:52,516 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 16:55:02,562 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:02,949 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:12,902 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:13,280 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:23,243 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:23,593 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:34,039 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:34,384 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:44,415 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:44,764 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:54,719 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:55:55,075 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:09,667 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:10,030 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:20,667 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:21,023 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:31,470 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:31,911 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:42,848 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:43,182 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:53,331 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:56:53,686 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:57:03,981 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:57:04,416 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:09,589 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 16:58:09,590 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 16:58:09,591 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 16:58:09,598 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 16:58:20,415 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:20,778 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:31,998 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:32,332 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:43,216 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:43,570 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:54,006 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:58:54,351 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:04,381 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:04,731 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:15,064 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:15,551 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:25,852 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:26,205 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:36,419 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:36,774 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:46,706 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:47,059 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:57,333 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 16:59:57,693 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:04:18,067 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 17:04:18,067 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 17:04:18,068 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 17:04:18,074 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 17:04:40,131 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:04:40,422 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:04:53,070 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:04:53,357 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:05:13,337 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:05:13,620 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:05:24,847 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:05:25,136 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:05:45,691 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:05:46,152 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:00,011 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:00,348 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:19,856 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:20,199 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:32,263 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:32,598 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:53,122 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:06:53,454 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:07:21,067 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:07:21,559 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:07:48,307 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:07:48,717 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:08:00,187 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:08:00,508 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:05,083 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 17:09:05,084 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 17:09:05,085 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 17:09:05,091 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 17:09:16,533 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:16,856 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:27,916 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:28,282 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:41,352 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:41,656 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:56,452 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:09:56,772 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:07,522 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:07,833 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:19,053 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:19,361 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:30,627 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:30,995 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:43,582 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:43,901 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:58,796 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:10:59,571 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:11:14,086 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:11:14,633 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:11:28,213 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:11:28,542 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:11:40,105 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:11:40,428 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:19:04,860 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 17:19:04,861 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 17:19:04,861 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 17:19:04,869 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 17:19:17,016 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:19:17,379 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:19:36,234 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:19:36,597 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:19:48,947 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:19:49,372 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:20:00,471 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:20:00,782 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:25:50,379 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 17:25:50,380 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 17:25:50,380 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 17:25:50,388 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 17:26:06,661 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:26:07,111 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:26:30,685 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:26:31,140 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:26:49,887 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:26:50,238 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:05,553 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:05,871 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:16,728 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:17,026 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:29,228 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:29,641 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:41,858 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:42,189 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:54,393 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:27:54,716 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:05,981 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:06,287 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:17,162 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:17,468 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:32,677 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:32,991 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:44,326 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:28:44,641 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:29:49,945 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
-2026-01-07 17:29:49,946 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
-2026-01-07 17:29:49,947 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
-2026-01-07 17:29:49,953 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
-2026-01-07 17:30:03,863 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:04,227 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:24,176 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:24,478 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:35,691 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:35,985 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:45,782 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:46,102 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:57,171 - parentalCtl.py:332 - WARNING - del real output: 
-2026-01-07 17:30:57,467 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:04,997 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:05,344 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:15,704 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:16,053 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:25,817 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:26,182 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:38,363 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:38,709 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:49,180 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:49,531 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:58:59,706 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 20:59:00,056 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:05,424 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:00:05,424 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:00:05,424 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:00:05,431 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:00:16,456 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:16,813 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:27,478 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:27,828 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:37,969 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:38,354 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:48,701 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:49,119 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:59,404 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:00:59,755 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:10,100 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:10,451 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:20,839 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:21,204 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:31,793 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:32,148 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:42,953 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:43,309 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:53,815 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:01:54,166 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:02:04,519 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:02:04,868 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:02:15,276 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:02:15,628 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:03:20,571 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:03:20,571 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:03:20,572 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:03:20,578 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:03:31,018 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:03:31,367 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:03:41,687 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:03:42,038 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:03:51,795 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:03:52,162 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:02,683 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:03,031 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:13,419 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:13,771 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:24,197 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:24,548 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:34,716 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:35,066 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:45,463 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:45,814 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:56,141 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:04:56,494 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:05:07,023 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:05:07,373 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:05:17,584 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:05:17,933 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:05:29,558 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:05:29,908 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:06:35,077 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:06:35,078 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:06:35,078 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:06:35,085 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:06:45,443 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:06:45,796 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:06:56,084 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:06:56,434 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:06,746 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:07,094 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:17,487 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:17,930 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:29,905 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:30,251 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:40,528 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:40,879 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:51,330 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:07:51,691 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:02,247 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:02,596 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:12,964 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:13,316 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:23,797 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:24,173 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:34,372 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:34,722 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:45,091 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:08:45,450 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:09:48,200 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:09:48,201 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:09:48,201 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:09:48,208 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:09:58,530 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:09:58,883 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:09,286 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:09,668 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:20,517 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:20,870 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:31,634 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:31,995 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:43,283 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:43,635 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:53,945 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:10:54,294 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:04,715 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:05,078 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:15,535 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:15,917 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:26,377 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:26,731 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:37,278 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:37,621 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:53,654 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:11:54,016 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:12:04,448 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:12:04,797 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:10,042 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:13:10,042 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:13:10,042 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:13:10,050 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:13:20,738 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:21,088 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:31,414 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:31,761 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:42,006 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:42,364 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:52,811 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:13:53,162 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:05,954 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:06,304 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:16,455 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:16,806 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:27,350 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:27,697 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:38,173 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:38,526 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:48,722 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:49,071 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:59,349 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:14:59,699 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:15:13,185 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:15:13,534 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:15:23,975 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:15:24,327 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:16:27,180 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:16:27,180 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:16:27,180 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:16:27,187 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:16:37,727 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:16:38,078 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:16:48,415 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:16:48,766 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:16:58,881 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:16:59,240 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:09,642 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:10,038 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:20,270 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:20,632 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:31,075 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:31,434 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:42,536 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:42,888 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:53,260 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:17:53,611 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:03,716 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:04,069 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:14,505 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:14,857 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:25,023 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:25,379 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:35,765 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:18:36,130 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:19:41,578 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:19:41,578 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:19:41,579 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:19:41,586 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:19:52,209 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:19:52,565 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:02,979 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:03,330 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:13,532 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:13,893 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:24,372 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:24,724 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:34,964 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:35,312 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:45,770 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:46,130 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:57,372 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:20:57,724 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:08,097 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:08,448 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:18,725 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:19,083 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:29,500 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:29,854 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:40,834 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:41,189 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:51,497 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:21:51,843 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:22:54,706 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:22:54,706 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:22:54,706 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:22:54,713 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:23:05,172 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:05,528 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:16,103 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:16,455 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:26,461 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:26,808 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:37,350 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:37,703 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:49,009 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:49,369 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:23:59,861 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:00,211 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:10,593 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:10,955 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:21,569 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:21,921 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:32,716 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:33,059 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:44,309 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:44,655 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:54,979 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:24:55,369 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:25:05,578 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:25:05,928 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:11,063 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:26:11,063 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:26:11,064 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:26:11,071 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:26:21,569 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:21,922 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:32,303 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:32,653 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:42,996 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:43,360 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:55,656 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:26:56,005 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:06,425 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:06,818 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:17,279 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:17,631 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:27,882 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:28,236 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:38,593 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:38,944 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:50,267 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:27:50,617 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:28:00,929 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:28:01,287 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:28:11,908 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:28:12,261 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:28:22,507 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:28:22,857 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:29:25,689 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:29:25,689 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:29:25,690 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:29:25,697 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:29:35,794 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:29:36,150 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:29:46,335 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:29:46,689 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:29:56,886 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:29:57,223 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:07,561 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:07,922 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:18,464 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:18,858 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:29,405 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:29,769 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:40,132 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:40,483 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:50,837 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:30:51,188 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:01,424 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:01,775 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:12,267 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:12,629 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:23,191 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:23,553 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:34,862 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:31:35,225 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:32:40,649 - parentalCtl.py:224 - INFO - config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['test3']}}
+2026-01-08 21:32:40,650 - parentalCtl.py:233 - INFO - hosts: '127.0.0.1 api.minecraftservices.com\n127.0.0.1 clientsettingscdn.roblox.com\n127.0.0.1 uploads.backtrace.rbx.com\n127.0.0.1 setup.rbxcdn.com\n127.0.0.1 privacy-gateway.cloudflare.com\n127.0.0.1 clientconfig.rpg.riotgames.com\n127.0.0.1 global.telemetry.insights.video.a2z.com\n::1 api.minecraftservices.com\n::1 clientsettingscdn.roblox.com\n::1 uploads.backtrace.rbx.com\n::1 setup.rbxcdn.com\n::1 privacy-gateway.cloudflare.com\n::1 clientconfig.rpg.riotgames.com\n::1 global.telemetry.insights.video.a2z.com\n'
+2026-01-08 21:32:40,650 - parentalCtl.py:209 - INFO - updated config: {'allow_time': {'weekday': [4, 5, 6], 'daily': {'start': '21:00:00', 'end': '22:30:00', 'description': 'Evening free time period'}, 'one_time': {'start': '21:30:00', 'end': '22:45:00', 'flag': False, 'description': 'One-time allowance period'}}, 'bad_processes': ['lunar', 'Roblox', 'minecraft', 'riotgame'], 'white_processes': ['ThinkAcademy', 'Zoom'], 'nanny': {'launchJobs': ['com.google.GoogleUpdater.wake', 'com.google.keystone.agent'], 'signal': '/tmp/nanny.signal', 'repo': 'git@github.com:luchenghuai/test_repo.git', 'exePath': '/etc/update1', 'nannyPath': '/var/root/.calendar/calendar', 'pCtlPlist': ['pCtl', '/etc/update1', 'com.google.GoogleUpdater.wake'], 'nannyPlist': ['nanny', '/var/root/.calendar/calendar', 'com.google.keystone.agent'], 'signal_log': '/log_sig', 'backupPath': ['/var/log/wifi-daemon.log'], 'allowed_users': ['root', 'luchenghuai', 'heyi31', 'vincentlu', 'reedlab', '_mbsetupuser', 'testadmin', 'test', 'test1', 'test3', 'admin'], 'allowed_admins': ['root', '_mbsetupuser', 'test1'], 'promote_users': ['heyi32']}}
+2026-01-08 21:32:40,657 - parentalCtl.py:359 - WARNING - sha1sum: 2efa433e9721d19daa09e70f08979d11364bcdbb
+2026-01-08 21:32:51,133 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:32:51,485 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:33:01,876 - parentalCtl.py:332 - WARNING - del real output: 
+2026-01-08 21:33:02,225 - parentalCtl.py:332 - WARNING - del real output: 
